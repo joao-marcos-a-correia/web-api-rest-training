@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pu5JGVxn/8MRajQB5aFv5CPotSYRC59mHkDH/bb2mW/T3I3YGWXYVNu82+MNkbywtytpl/806/QfX54v75WJZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaom\\Documents\\WebApiECommerce\\WebApiECommerce.Domain\\WebApiECommerce.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\joaom\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

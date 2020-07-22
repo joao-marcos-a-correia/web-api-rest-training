@@ -1,0 +1,15 @@
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Infra.deps.json
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Infra.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Infra.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Domain.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Domain.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.AssemblyInfoInputs.cache
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.AssemblyInfo.cs
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.csproj.CopyComplete
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Infra.runtimeconfig.json
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\bin\Debug\netcoreapp2.0\WebApiECommerce.Infra.runtimeconfig.dev.json
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.genruntimeconfig.cache
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Infra\obj\Debug\netcoreapp2.0\WebApiECommerce.Infra.csproj.CoreCompileInputs.cache

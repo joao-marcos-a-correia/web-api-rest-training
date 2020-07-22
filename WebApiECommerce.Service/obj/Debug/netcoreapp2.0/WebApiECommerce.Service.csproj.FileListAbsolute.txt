@@ -1,0 +1,12 @@
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\bin\Debug\netcoreapp2.0\WebApiECommerce.Service.deps.json
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\bin\Debug\netcoreapp2.0\WebApiECommerce.Service.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\bin\Debug\netcoreapp2.0\WebApiECommerce.Service.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\bin\Debug\netcoreapp2.0\WebApiECommerce.Domain.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\bin\Debug\netcoreapp2.0\WebApiECommerce.Domain.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.AssemblyInfoInputs.cache
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.AssemblyInfo.cs
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.csproj.CopyComplete
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.dll
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.pdb
+C:\Users\joaom\Documents\WebApiECommerce\WebApiECommerce.Service\obj\Debug\netcoreapp2.0\WebApiECommerce.Service.csproj.CoreCompileInputs.cache
